@@ -1,9 +1,10 @@
-@import "core/main";
+// @import "core/main";
 /**
 Plugins
  */
- @import "plugins/datatable";
+ @import "../scss/node_modules/bootstrap/scss/bootstrap.scss";
  /**
 Pages
  */
- @import "pages/home/home";
+@import "../scss/pages/header";
+@import "../scss/pages/footer";
